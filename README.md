@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, sou Cauan Rodrigues</h1>
 <h3 align="center">Sou um estudante de programação focado no Back-End</h3>
 
-<p>🚀 Prazer, meu nome é Cauan e sou programador backend, adoro jogar 🎮, ler livros e programar 👨‍💻. Atualmente me dedicando nos estudos em Django, Javascript e PostgreSQL. Pretendo trabalhar com diversas tecnologias, buscando sempre aprender e evoluir. Sou uma pessoa que ama estudar, tanto TI, como também inglês.</p>
+<p>🚀 Prazer, meu nome é Cauan e sou programador backend. Gosto de jogar 🎮, ler livros e programar 👨‍💻. Atualmente me dedicando nos estudos em Django, Javascript e PostgreSQL. Pretendo trabalhar com diversas tecnologias, buscando sempre aprender e evoluir. Sou uma pessoa que ama estudar, tanto TI, como também inglês.</p>
 
 <p>
 Sou uma pessoa focada e que busca ingressar na area como desenvolvedor Back-End.
